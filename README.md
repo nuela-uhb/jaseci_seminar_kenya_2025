@@ -1,7 +1,7 @@
 # jaseci_seminar_kenya_2025
-Learning repo for AI Seminar with Dr.Jason Mars :Decentralizing  Ai innovation
-This repository contains practical projects completed during the Generative AI Seminar.  
-It demonstrates hands-on learning and integration of *Jac and Python* in building a simple Habit Tracker project.
+Learning repository for  Generative AI Applications program with Dr.Jason Mars :Decentralizing  Ai innovation
+This repository contains practical and learning projects running concurently with the Generative AI Seminar.  
+It demonstrates hands-on learning and integration of *Jac and Python* in building, where i created a simple Habit Tracker project.
 
 
 Project: Habit Tracker (Jac + Python Integration)
@@ -76,9 +76,6 @@ Serves as a foundation for future AI-enhanced habit tracking projects.
 
 
 
-
-
-
 Future Improvements
 
 Integrate OpenAI API to provide AI habit suggestions.
@@ -89,5 +86,27 @@ Allow tracking multiple habits dynamically.
 
 Integrate Google Calendar API for habit scheduling.
 
-}
+
+
+Upcoming Projects
+
+This repository will be updated with additional projects as the course progresses.
+
+🧰 Tech Stack
+
+Jac (BCS Jaseci Lab ecosystem)
+
+Python 3
+
+GitHub for version control
+
+
+📖 About the Course
+
+The Building Generative AI Applications program prepares learners for high-impact roles in the AI-driven economy.
+Through practical projects and the Jaseci Lab ecosystem, learners gain real-world experience integrating and deploying AI applications across industries such as healthcare, agriculture, finance, education, and transportation.
+
+✨ Author
+
+Hawi Emanuela — Participant in the Building Generative AI Applications program.
 
