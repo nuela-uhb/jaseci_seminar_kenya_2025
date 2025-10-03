@@ -62,6 +62,9 @@ pip install jaclang
    
 
 
+
+
+
 Learning Outcomes
 
 Demonstrates understanding of Jac programming language and Python integration.
@@ -69,6 +72,10 @@ Demonstrates understanding of Jac programming language and Python integration.
 Shows ability to set up a professional dev environment and manage dependencies.
 
 Serves as a foundation for future AI-enhanced habit tracking projects.
+
+
+
+
 
 
 
